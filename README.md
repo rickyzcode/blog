@@ -1,3 +1,7 @@
+-好好学习天天向上
++别浪了快看书去
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rickyzcode/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
