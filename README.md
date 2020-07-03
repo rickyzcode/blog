@@ -1,3 +1,3 @@
-- 好好学习天天向上
-+ 别浪了快看书去
+# Simple model of NN
 
+https://github.com/rickyzcode/blog.github.io/blob/master/IMG/NN.png
