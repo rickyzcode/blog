@@ -5,8 +5,9 @@ In this model we have one input layer, two hidden layer, one output layer.
 
 The input vector is 
 $$
-  \begin{matrix}
-  i\\
-  i
-  \end{matrix} \tag{1}
+\begin{matrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9
+\end{matrix} \tag{3-1}
 $$
